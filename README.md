@@ -8,6 +8,24 @@
 
 ---
 
+## ⚡ Quick Install (One-Liner)
+
+Copy and paste the command for your system into your terminal:
+
+### 🐧 Linux / 🍎 macOS
+```bash
+python3 -m pip install git+https://github.com/uchumeow/amusic-dl.git
+```
+
+### 🪟 Windows (PowerShell)
+```powershell
+python -m pip install git+https://github.com/uchumeow/amusic-dl.git
+```
+
+> **Note:** Ensure you have [Python](https://www.python.org/) and [Git](https://git-scm.com/) installed and added to your PATH.
+
+---
+
 ## ✨ Features
 
 - **High-Quality Metadata:** Automatically fetches track titles, artists, albums, release years, and genres.
